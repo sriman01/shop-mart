@@ -7,12 +7,12 @@ import { getAuth } from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB1uVjNldPSubS7omOokxWOfSrEr4I23ho",
-  authDomain: "myfirstproject-d9d53.firebaseapp.com",
-  projectId: "myfirstproject-d9d53",
-  storageBucket: "myfirstproject-d9d53.appspot.com",
-  messagingSenderId: "613904043692",
-  appId: "1:613904043692:web:f1aede4081a9fd97a5d909"
+  apiKey: "AIzaSyCy3hByx4u8290jMywVP4QI8m37_KwRnKM",
+  authDomain: "shopmart-a87b0.firebaseapp.com",
+  projectId: "shopmart-a87b0",
+  storageBucket: "shopmart-a87b0.appspot.com",
+  messagingSenderId: "29902736374",
+  appId: "1:29902736374:web:9761f430e7b5724a9495d7"
 };
 
 // Initialize Firebase
